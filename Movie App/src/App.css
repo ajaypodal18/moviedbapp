@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.nav-head {
+  font-size: 25px;
+  font-weight: 800;
+  -webkit-text-stroke: 1.5px #1ea8e4be !important;
+  color: transparent !important;
+  text-decoration: none;
+}
+
+.bg-dark-subtle {
+  background-color: #3b4459 !important;
+}
+
+.m-1 {
+  color: #8191e7;
+  text-decoration: none;
+  margin: 10px !important;
+}
+
+.m-1:hover {
+  color: #cfd2e4;
+}
+
+.movie-cards {
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 5px;
+  
+}
